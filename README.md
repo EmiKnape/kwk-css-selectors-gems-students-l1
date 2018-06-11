@@ -1,4 +1,4 @@
-# ARRR Don't Lose Your Gems!
+  # ARRR Don't Lose Your Gems!
 
 <img src="https://s3.amazonaws.com/after-school-assets/pirate-cat.jpg" alt="pirate cat" width="275" align="right" hspace="10">
 
